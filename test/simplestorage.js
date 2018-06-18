@@ -1,5 +1,5 @@
 var SimpleStorage = artifacts.require("./SimpleStorage.sol");
-
+/* commit 되는지 확인용 */
 contract('SimpleStorage', function(accounts) {
 
   it("...should store the value 89.", function() {
